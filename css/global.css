@@ -1,0 +1,22 @@
+td a:link {
+    text-decoration: none;
+    color:darksalmon;
+}
+
+td a:visited {
+    text-decoration: none;
+    color:darksalmon;
+}
+
+td a:hover {
+    text-decoration: none;
+    color:crimson;
+}
+
+td a:active {
+    text-decoration: none;
+    color:crimson;
+}
+
+
+
